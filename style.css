@@ -1,0 +1,29 @@
+.container {
+    border-style: groove;
+}
+.page {
+    border-style: solid;
+    margin: 10px
+}
+
+.header-title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.page-image {
+    text-align: center;
+}
+
+.bottom-page {
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
